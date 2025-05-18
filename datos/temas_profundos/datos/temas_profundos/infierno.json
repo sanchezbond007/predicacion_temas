@@ -1,0 +1,127 @@
+{
+  "titulo": "¿Qué enseña realmente la Biblia sobre el infierno?",
+  "introduccion": "Muchas religiones enseñan que el infierno es un lugar de tormento eterno para los malvados. Sin embargo, la Biblia no apoya esta idea. En cambio, enseña que el infierno representa la tumba común de la humanidad, un estado de inconsciencia donde no hay sufrimiento.",
+  "explicacion": [
+    {
+      "punto": "El infierno en la Biblia no es un lugar de fuego eterno",
+      "versiculos": [
+        {
+          "cita": "Eclesiastés 9:5",
+          "texto": "Los vivos saben que morirán, pero los muertos no saben nada."
+        },
+        {
+          "cita": "Salmo 146:4",
+          "texto": "Sale su espíritu, él vuelve al suelo; ese día perecen sus pensamientos."
+        },
+        {
+          "cita": "Romanos 6:7",
+          "texto": "El que ha muerto ha sido absuelto de su pecado."
+        }
+      ]
+    },
+    {
+      "punto": "El término 'infierno' traduce palabras hebreas y griegas que significan 'sepulcro'",
+      "versiculos": [
+        {
+          "cita": "Job 14:13",
+          "texto": "¡Oh si me ocultaras en el Seol... hasta que pase tu ira!"
+        },
+        {
+          "cita": "Hechos 2:31",
+          "texto": "David vio de antemano la resurrección del Cristo... su alma no fue dejada en el Hades."
+        }
+      ]
+    },
+    {
+      "punto": "Dios no es cruel ni injusto",
+      "versiculos": [
+        {
+          "cita": "1 Juan 4:8",
+          "texto": "Dios es amor."
+        },
+        {
+          "cita": "Deuteronomio 32:4",
+          "texto": "Justo y recto es él."
+        }
+      ]
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Los muertos están inconscientes",
+        "cita": "Eclesiastés 9:5",
+        "texto": "Los muertos no saben nada."
+      },
+      {
+        "titulo": "Jesús habló del Hades como un lugar temporal",
+        "cita": "Lucas 16:23",
+        "texto": "En el Hades alzó sus ojos, estando en tormentos..."
+      },
+      {
+        "titulo": "La paga del pecado es muerte, no tormento eterno",
+        "cita": "Romanos 6:23",
+        "texto": "La paga que da el pecado es muerte, pero el don que da Dios es vida eterna."
+      },
+      {
+        "titulo": "El alma que peca morirá",
+        "cita": "Ezequiel 18:4",
+        "texto": "El alma que peca, esa morirá."
+      },
+      {
+        "titulo": "Dios no atormenta, Él destruye",
+        "cita": "Hebreos 2:14",
+        "texto": "Mediante su muerte, redujo a nada al que tiene los medios para causar la muerte, es decir, al Diablo."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Sería injusto castigar eternamente a alguien por pecados temporales",
+        "explicacion": "Una condena eterna por pecados cometidos en una vida breve no refleja justicia perfecta."
+      },
+      {
+        "titulo": "La enseñanza del infierno como fuego eterno aleja a muchos del verdadero Dios",
+        "explicacion": "Un Dios de amor no tortura eternamente a sus criaturas. Esa doctrina causa temor irracional, no adoración por amor."
+      },
+      {
+        "titulo": "Satanás será destruido, no atormentado eternamente",
+        "explicacion": "En Génesis 3:15, Dios prometió que la descendencia aplastaría la cabeza de la serpiente (Satanás). Cuando se aplasta la cabeza de una serpiente, se le destruye, no se le atormenta. Además, Hebreos 2:14 dice que Jesús destruirá al que tiene el poder de la muerte, es decir, al Diablo."
+      },
+      {
+        "titulo": "El castigo eterno contradice la justicia divina",
+        "explicacion": "Un castigo sin fin por pecados temporales va en contra de la equidad y misericordia de Dios."
+      },
+      {
+        "titulo": "Dios es amor, no torturador",
+        "explicacion": "1 Juan 4:8 dice que Dios es amor. Torturar eternamente no es una manifestación de amor verdadero."
+      },
+      {
+        "titulo": "El infierno eterno no tiene propósito restaurador",
+        "explicacion": "Un tormento eterno no corrige ni enseña, solo causa sufrimiento perpetuo, algo que no refleja el propósito de Jehová."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La doctrina del infierno fue influenciada por creencias paganas",
+        "descripcion": "Civilizaciones antiguas como los babilonios, egipcios y griegos ya hablaban de un inframundo ardiente. Con el tiempo, el cristianismo adoptó estas ideas para controlar mediante el miedo."
+      },
+      {
+        "titulo": "La palabra 'infierno' es una mala traducción de términos como 'Seol' y 'Hades'",
+        "descripcion": "Traducciones modernas como la Traducción del Nuevo Mundo aclaran estas diferencias, lo cual ayuda a entender el verdadero significado."
+      },
+      {
+        "titulo": "Doctrina influenciada por mitología pagana",
+        "descripcion": "Antiguas religiones como la egipcia, griega y babilónica ya hablaban de lugares de castigo eterno en el más allá."
+      },
+      {
+        "titulo": "La palabra infierno fue mal traducida",
+        "descripcion": "Seol (hebreo) y Hades (griego) simplemente significan 'sepulcro' o 'lugar de los muertos', no 'tormento eterno'."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/biblioteca/revistas/g201307/que-es-infierno-biblia/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/102008330",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1993282"
+    ]
+  }
+}
