@@ -1,0 +1,80 @@
+{
+  "titulo": "¿Enseña la Biblia que Pedro fue el primer papa?",
+  "introduccion": "La Iglesia Católica Romana sostiene que el apóstol Pedro fue el primer papa y fundamento de la autoridad papal. Sin embargo, los Testigos de Jehová creen que la Biblia no enseña que Pedro tuviera primacía sobre los demás apóstoles ni que fundara una sucesión papal.",
+  "explicacion": [
+    {
+      "punto": "Jesús es la única cabeza de la congregación cristiana",
+      "versiculos": [
+        {
+          "cita": "Efesios 5:23",
+          "texto": "Cristo es cabeza de la congregación."
+        },
+        {
+          "cita": "Colosenses 1:18",
+          "texto": "Él es la cabeza del cuerpo, la congregación."
+        }
+      ],
+      "analisis": "La Biblia nunca declara que Pedro sea cabeza de la iglesia. Ese rol corresponde exclusivamente a Jesús."
+    },
+    {
+      "punto": "Jesús dio instrucciones a todos los apóstoles, no solo a Pedro",
+      "versiculos": [
+        {
+          "cita": "Mateo 28:19-20",
+          "texto": "Vayan y hagan discípulos... enseñándoles a obedecer."
+        }
+      ],
+      "analisis": "Jesús comisionó a todos sus seguidores fieles, sin establecer jerarquías. Pedro era un líder entre iguales, no superior."
+    },
+    {
+      "punto": "Pedro fue corregido públicamente por otro apóstol",
+      "versiculos": [
+        {
+          "cita": "Gálatas 2:11",
+          "texto": "Cuando Pedro vino a Antioquía, me opuse a él cara a cara, porque claramente estaba equivocado."
+        }
+      ],
+      "analisis": "Si Pedro hubiera sido infalible o la máxima autoridad, Pablo no lo habría reprendido públicamente. Esto muestra que Pedro no ocupaba un puesto supremo."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "La roca es Cristo, no Pedro",
+        "cita": "1 Corintios 10:4",
+        "texto": "Esa roca era el Cristo."
+      },
+      {
+        "titulo": "Jesús usó un juego de palabras con Pedro",
+        "cita": "Mateo 16:18",
+        "texto": "Tú eres Pedro [pétros], y sobre esta roca [pétra] edificaré mi congregación."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Pedro nunca se llamó a sí mismo papa ni pidió adoración",
+        "explicacion": "En sus cartas, Pedro se presentó como 'compañero y anciano', nunca como cabeza ni vicario de Cristo."
+      },
+      {
+        "titulo": "La supuesta sucesión apostólica no está en la Biblia",
+        "explicacion": "La Biblia no menciona que los apóstoles tuvieran sucesores ni que su autoridad fuera transferible."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "El papado se desarrolló siglos después de Pedro",
+        "descripcion": "La estructura papal tal como se conoce hoy no existía en el siglo I. Surgió gradualmente en los siglos posteriores, influenciada por la política romana."
+      },
+      {
+        "titulo": "La autoridad papal fue declarada oficialmente en el siglo IV",
+        "descripcion": "La primacía de Roma fue reconocida por decreto imperial, no por mandato bíblico."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/enseñanzas-biblicas/preguntas/pedro-primer-papa/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/2007446",
+      "https://www.jw.org/es/biblioteca/revistas/g201403/pedro-primer-papa/"
+    ]
+  },
+  "conclusion": "Pedro fue un apóstol fiel, pero no fue el primer papa. La Biblia enseña que Jesús es la única cabeza de la congregación. La doctrina del papado no tiene base bíblica y fue desarrollada siglos después por tradición humana."
+}
