@@ -1,0 +1,63 @@
+{
+  "titulo": "¿Es bíblico celebrar los cumpleaños?",
+  "introduccion": "Aunque celebrar cumpleaños es común en todo el mundo, los Testigos de Jehová creen que esta práctica no tiene apoyo bíblico. En lugar de eso, las celebraciones de cumpleaños en la Biblia se presentan de forma negativa y están asociadas con costumbres paganas.",
+  "explicacion": [
+    {
+      "punto": "Solo se mencionan dos cumpleaños en toda la Biblia",
+      "versiculos": [
+        {
+          "cita": "Génesis 40:20-22",
+          "texto": "El faraón celebró su cumpleaños... y mandó ejecutar al jefe de los panaderos."
+        },
+        {
+          "cita": "Marcos 6:21-28",
+          "texto": "En el cumpleaños de Herodes... ordenó que le cortaran la cabeza a Juan el Bautista."
+        }
+      ],
+      "analisis": "Ambos relatos están asociados con muertes. No hay ejemplos de siervos fieles de Dios celebrando su cumpleaños."
+    },
+    {
+      "punto": "Jesús nunca celebró su cumpleaños",
+      "explicacion": "La Biblia no registra que Jesús o sus discípulos celebraran cumpleaños. En cambio, mandó que se recordara su muerte (Lucas 22:19)."
+    },
+    {
+      "punto": "Los primeros cristianos evitaban costumbres paganas",
+      "explicacion": "Las celebraciones de cumpleaños tienen orígenes paganos, como la astrología y la adoración a los dioses del destino. Los primeros cristianos las consideraban inadecuadas."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Celebrar cumpleaños no es una práctica aprobada por Dios",
+        "cita": "Eclesiastés 7:1",
+        "texto": "Mejor es el día de la muerte que el día del nacimiento."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Enfocarse en uno mismo contradice el espíritu cristiano",
+        "explicacion": "Los cumpleaños muchas veces fomentan el orgullo y el enfoque en el yo, lo cual contradice la humildad que Jesús enseñó."
+      },
+      {
+        "titulo": "Dios valora la conducta, no el nacimiento físico",
+        "explicacion": "Dios juzga por las acciones y la fe, no por la fecha en que alguien nació."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "Los primeros cristianos no celebraban cumpleaños",
+        "descripcion": "Los historiadores coinciden en que las celebraciones de cumpleaños eran costumbres paganas, y los cristianos fieles del primer siglo las evitaban."
+      },
+      {
+        "titulo": "Las raíces paganas de los cumpleaños son ampliamente reconocidas",
+        "descripcion": "En la antigüedad, los cumpleaños incluían rituales para proteger al recién nacido de los espíritus malignos y estaban ligados a la astrología."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/enseñanzas-biblicas/preguntas/biblia-celebrar-cumpleanos/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/102012205",
+      "https://www.jw.org/es/biblioteca/revistas/wp20140301/es-biblico-celebrar-cumpleanos/"
+    ]
+  },
+  "conclusion": "La Biblia no respalda la celebración de cumpleaños y las menciones que hace de estas celebraciones están ligadas a sucesos trágicos. Por eso, los Testigos de Jehová optan por no celebrar cumpleaños, en armonía con su deseo de imitar a Jesús y evitar costumbres con raíces paganas."
+}
