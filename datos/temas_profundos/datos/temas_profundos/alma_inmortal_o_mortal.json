@@ -1,0 +1,76 @@
+{
+  "titulo": "¿Qué enseña la Biblia sobre el alma? ¿Es inmortal o muere?",
+  "introduccion": "Muchas religiones enseñan que el alma es inmortal y que sobrevive a la muerte del cuerpo. Sin embargo, los Testigos de Jehová creen que la Biblia enseña claramente que el alma es la persona completa y que puede morir.",
+  "explicacion": [
+    {
+      "punto": "El alma es la persona completa, no una parte invisible",
+      "versiculos": [
+        {
+          "cita": "Génesis 2:7",
+          "texto": "El hombre vino a ser un alma viviente."
+        }
+      ],
+      "analisis": "El texto no dice que el hombre 'recibió' un alma, sino que se convirtió en una. En la Biblia, el alma es el ser viviente completo."
+    },
+    {
+      "punto": "El alma puede morir",
+      "versiculos": [
+        {
+          "cita": "Ezequiel 18:4",
+          "texto": "El alma que peque, esa morirá."
+        }
+      ],
+      "analisis": "Si el alma fuera inmortal, este versículo no tendría sentido. La Biblia muestra que el alma no es indestructible."
+    },
+    {
+      "punto": "Los muertos no tienen conciencia",
+      "versiculos": [
+        {
+          "cita": "Eclesiastés 9:5, 10",
+          "texto": "Los muertos no saben nada... En el Seol... no hay trabajo, ni planes, ni conocimiento, ni sabiduría."
+        }
+      ],
+      "analisis": "Esto refuerza que no hay una parte consciente que sobreviva a la muerte del cuerpo."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "La Biblia habla de almas que mueren",
+        "cita": "Josué 11:11",
+        "texto": "Destruyeron toda alma que había en ella, pasando todo al filo de la espada."
+      },
+      {
+        "titulo": "Jesús entregó su alma en sacrificio",
+        "cita": "Isaías 53:12",
+        "texto": "Derramó su alma hasta la muerte."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Si el alma no muere, no tendría sentido la resurrección",
+        "explicacion": "La esperanza bíblica es que los muertos serán resucitados. Si el alma nunca muriera, ¿por qué necesitaría resucitar?"
+      },
+      {
+        "titulo": "Dios no necesita castigar un alma inmortal",
+        "explicacion": "La Biblia enseña que la paga del pecado es la muerte, no un castigo eterno del alma."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La inmortalidad del alma es una doctrina griega, no bíblica",
+        "descripcion": "Filósofos como Platón enseñaron que el alma es inmortal. Esta idea fue adoptada por religiones siglos después de la muerte de los apóstoles."
+      },
+      {
+        "titulo": "Los primeros cristianos no enseñaban que el alma era inmortal",
+        "descripcion": "Sus enseñanzas se centraban en la resurrección, no en una vida consciente después de la muerte."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/enseñanzas-biblicas/preguntas/que-es-el-alma/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1102005156",
+      "https://www.jw.org/es/biblioteca/revistas/g201411/alma-es-inmortal/"
+    ]
+  },
+  "conclusion": "La Biblia enseña que el alma es la persona completa y que puede morir. No existe una parte inmortal que viva después de la muerte. La verdadera esperanza para los muertos no es seguir existiendo como alma, sino ser resucitados por Dios en el futuro."
+}
