@@ -1,0 +1,88 @@
+{
+  "titulo": "¿Es bíblico rendir culto a María y a los santos?",
+  "introduccion": "En muchas religiones, se rinde culto o se reza a María, la madre de Jesús, y a distintos santos. Sin embargo, los Testigos de Jehová creen que esta práctica no tiene respaldo bíblico y desvía la atención del verdadero adorador: Jehová Dios.",
+  "explicacion": [
+    {
+      "punto": "La adoración y las oraciones deben dirigirse solo a Dios",
+      "versiculos": [
+        {
+          "cita": "Mateo 4:10",
+          "texto": "Adora a Jehová tu Dios y sírvele solo a él."
+        },
+        {
+          "cita": "Filipenses 4:6",
+          "texto": "Oren a Dios en toda ocasión."
+        }
+      ],
+      "analisis": "Jesús mismo enseñó que solo a Jehová se debe adorar. No autorizó oraciones a su madre ni a otras personas fieles fallecidas."
+    },
+    {
+      "punto": "María fue una sierva fiel, no una mediadora",
+      "versiculos": [
+        {
+          "cita": "Lucas 1:38",
+          "texto": "María dijo: 'Aquí está la esclava de Jehová'."
+        },
+        {
+          "cita": "1 Timoteo 2:5",
+          "texto": "Hay un solo Dios, y un solo mediador entre Dios y los hombres: un hombre, Cristo Jesús."
+        }
+      ],
+      "analisis": "María fue una mujer fiel, pero no se presenta como alguien a quien se debe orar o rendir culto. La Biblia señala que solo Jesús es el mediador entre Dios y los humanos."
+    },
+    {
+      "punto": "Los santos no están conscientes ni pueden intervenir",
+      "versiculos": [
+        {
+          "cita": "Eclesiastés 9:5",
+          "texto": "Los muertos no saben nada."
+        },
+        {
+          "cita": "Salmo 146:4",
+          "texto": "Ese día perecen sus pensamientos."
+        }
+      ],
+      "analisis": "Las personas fallecidas, por más fieles que hayan sido, no tienen conciencia ni la capacidad de escuchar oraciones."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Ningún humano debe recibir adoración",
+        "cita": "Hechos 10:25-26",
+        "texto": "Pedro le dijo: 'Levántate. Yo también soy solo un hombre.'"
+      },
+      {
+        "titulo": "Ni los ángeles permiten ser adorados",
+        "cita": "Apocalipsis 22:8-9",
+        "texto": "No hagas eso. Adora a Dios."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "La devoción a María y a los santos distrae de la adoración pura",
+        "explicacion": "Desviar oraciones y alabanzas a otros seres, aunque sean respetables, compite con el lugar exclusivo que debe tener Jehová en la adoración."
+      },
+      {
+        "titulo": "No se necesita intermediarios aparte de Cristo",
+        "explicacion": "Jesús cumple el papel de mediador perfectamente. No se requiere recurrir a María ni a ningún otro."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "El culto a María fue adoptado siglos después de Cristo",
+        "descripcion": "Durante el Concilio de Éfeso en el año 431 d.C., María fue proclamada 'Madre de Dios'. Esta enseñanza no proviene de las Escrituras, sino de tradiciones religiosas."
+      },
+      {
+        "titulo": "El culto a los santos tiene raíces en el politeísmo romano",
+        "descripcion": "Los llamados santos reemplazaron a los dioses menores del Imperio Romano, para facilitar la conversión de los pueblos politeístas al cristianismo."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/enseñanzas-biblicas/preguntas/orar-a-maria/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/2007765",
+      "https://www.jw.org/es/biblioteca/revistas/g201407/maria-madre-de-jesus/"
+    ]
+  },
+  "conclusion": "Rendir culto a María o a los santos no tiene base bíblica. La adoración verdadera debe dirigirse solo a Jehová Dios mediante Jesucristo, el único mediador. Los cristianos verdaderos se esfuerzan por mantener su adoración limpia y centrada en el Creador."
+}
