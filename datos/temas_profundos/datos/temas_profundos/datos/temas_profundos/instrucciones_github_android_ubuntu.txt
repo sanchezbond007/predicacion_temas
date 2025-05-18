@@ -1,0 +1,70 @@
+INSTRUCCIONES PARA SUBIR Y DESCARGAR ARCHIVOS ENTRE ANDROID Y UBUNTU USANDO GITHUB
+
+1. SUBIR ARCHIVOS A GITHUB DESDE ANDROID
+
+A. Accede al navegador y entra al repositorio:
+   https://github.com/sanchezbond007/predicacion_temas
+
+B. Navega hasta la carpeta donde deseas guardar el archivo:
+   Ejemplo: datos/temas_profundos/
+
+C. Presiona el ícono de "+" (más) arriba a la derecha.
+
+D. Elige la opción "Add file" o "Create new file".
+
+E. En el campo del nombre de archivo (File name), asegúrate de escribir correctamente la ruta:
+   Ejemplo: datos/temas_profundos/nombre_del_archivo.json
+
+F. Pega el contenido que deseas subir en el área de texto.
+
+G. En "Commit message", escribe un nombre descriptivo para el cambio.
+   Ejemplo: Añadir tema sobre la Trinidad
+
+H. Presiona "Commit changes" para guardar el archivo.
+
+I. Verifica que el archivo se haya guardado dentro de la carpeta correcta.
+
+---
+
+2. DESCARGAR ARCHIVOS DESDE UBUNTU USANDO GIT
+
+A. Abre la Terminal.
+
+B. Si aún no has clonado el repositorio, hazlo con:
+
+   git clone https://github.com/sanchezbond007/predicacion_temas.git
+
+C. Entra a la carpeta del repositorio:
+
+   cd predicacion_temas
+
+D. Si ya lo habías clonado antes y quieres actualizarlo, ejecuta:
+
+   git pull
+
+E. Ahora podrás acceder a los archivos localmente en la ruta:
+
+   predicacion_temas/datos/temas_profundos/
+
+---
+
+3. EDITAR ARCHIVOS Y SUBIR CAMBIOS DESDE UBUNTU
+
+A. Edita el archivo con tu editor preferido (ej. nano, code, gedit):
+
+   nano datos/temas_profundos/ejemplo.json
+
+B. Guarda los cambios y luego en Terminal:
+
+   git add datos/temas_profundos/ejemplo.json
+   git commit -m "Actualización del tema ejemplo"
+   git push
+
+---
+
+NOTAS ADICIONALES
+
+- Asegúrate de estar autenticado en GitHub si se te solicita usuario/contraseña o token.
+- Evita errores de escritura en la ruta del archivo.
+- Siempre verifica que estás en la rama correcta (por defecto es "main").
+- Puedes usar GitHub Desktop o Termux como alternativa en Android si necesitas una interfaz o terminal avanzada.
