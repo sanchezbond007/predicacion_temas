@@ -1,0 +1,76 @@
+{
+  "titulo": "¿Deben los cristianos participar en guerras?",
+  "introduccion": "Muchas religiones han apoyado conflictos bélicos a lo largo de la historia. Sin embargo, los Testigos de Jehová creen que los verdaderos cristianos deben mantenerse neutrales y no tomar parte en guerras, basándose en las enseñanzas de Jesús y en el amor al prójimo.",
+  "explicacion": [
+    {
+      "punto": "Jesús enseñó a amar incluso a los enemigos",
+      "versiculos": [
+        {
+          "cita": "Mateo 5:44",
+          "texto": "Sigan amando a sus enemigos y orando por los que los persiguen."
+        }
+      ],
+      "analisis": "Si los cristianos deben amar a sus enemigos, no pueden justificarse en matarlos por motivos políticos o nacionales."
+    },
+    {
+      "punto": "Los cristianos son parte de un Reino que no pertenece a este mundo",
+      "versiculos": [
+        {
+          "cita": "Juan 18:36",
+          "texto": "Mi Reino no es parte de este mundo."
+        }
+      ],
+      "analisis": "Como súbditos de un Reino celestial, los cristianos no deben involucrarse en los conflictos entre las naciones de este mundo."
+    },
+    {
+      "punto": "Los verdaderos cristianos no causan daño al prójimo",
+      "versiculos": [
+        {
+          "cita": "Romanos 13:10",
+          "texto": "El amor no le hace daño al prójimo."
+        }
+      ],
+      "analisis": "El amor cristiano se extiende a personas de todas las nacionalidades. Ir a la guerra implica violar ese principio."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Jesús prohibió el uso de la violencia para defenderlo",
+        "cita": "Mateo 26:52",
+        "texto": "Todos los que usan la espada morirán a espada."
+      },
+      {
+        "titulo": "Los cristianos deben ser pacíficos",
+        "cita": "Romanos 12:18",
+        "texto": "En lo posible, en cuanto dependa de ustedes, estén en paz con todos."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "La guerra enfrenta a cristianos entre sí",
+        "explicacion": "Muchos conflictos han puesto a cristianos de distintos países a matarse unos a otros, lo que contradice el amor que deben tenerse."
+      },
+      {
+        "titulo": "No se puede amar a Dios y al mismo tiempo destruir a Su creación",
+        "explicacion": "La guerra causa sufrimiento, muerte y destrucción. Participar en ella contradice el principio del amor cristiano."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "Los primeros cristianos eran pacifistas",
+        "descripcion": "Los cristianos del siglo I no participaban en guerras ni se alistaban en ejércitos, incluso cuando eso implicaba persecución."
+      },
+      {
+        "titulo": "Los Testigos de Jehová han sido reconocidos por su neutralidad",
+        "descripcion": "Miles han sido encarcelados o ejecutados por negarse a participar en guerras, demostrando su fidelidad a los principios bíblicos."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/biblioteca/revistas/g201307/cristianos-neutralidad-guerra/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/2008802",
+      "https://www.jw.org/es/enseñanzas-biblicas/preguntas/cristianos-van-a-la-guerra/"
+    ]
+  },
+  "conclusion": "La Biblia enseña que los cristianos deben ser pacíficos, amar incluso a sus enemigos, y mantenerse neutrales ante los conflictos del mundo. Por eso, los Testigos de Jehová no participan en guerras, sin importar la nación en la que vivan."
+}
