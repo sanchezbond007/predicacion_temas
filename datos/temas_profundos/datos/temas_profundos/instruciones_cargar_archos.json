@@ -1,0 +1,31 @@
+INSTRUCCIONES PARA DESCARGAR ARCHIVOS .json DE TEMAS PROFUNDOS EN UBUNTU
+
+1. UBICACIÓN DEL PROYECTO:
+Asegúrate de que tu proyecto esté ubicado en:
+~/asistente_predicacion_migracion_kivy/
+
+2. CLONAR EL REPOSITORIO (solo la primera vez):
+Abre la terminal y ejecuta:
+cd ~/asistente_predicacion_migracion_kivy/datos
+git clone https://github.com/sanchezbond007/predicacion_temas.git
+
+Esto creará una carpeta llamada: datos/predicacion_temas
+
+3. MOVER LOS ARCHIVOS A LA CARPETA TEMAS_PROFUNDOS:
+cd ~/asistente_predicacion_migracion_kivy/datos
+mv predicacion_temas/*.json temas_profundos/
+rm -r predicacion_temas  # (opcional) para eliminar la carpeta temporal
+
+4. PARA DESCARGAR UN SOLO ARCHIVO DESDE GITHUB:
+cd ~/asistente_predicacion_migracion_kivy/datos/temas_profundos
+wget https://raw.githubusercontent.com/sanchezbond007/predicacion_temas/main/nombre_del_archivo.json
+
+(Ejemplo)
+wget https://raw.githubusercontent.com/sanchezbond007/predicacion_temas/main/trinidad.json
+
+5. VERIFICA:
+Confirma que el archivo se haya guardado correctamente en:
+~/asistente_predicacion_migracion_kivy/datos/temas_profundos/
+
+6. OPCIONAL:
+Puedes automatizar esta tarea desde tu aplicación más adelante si deseas que otros también descarguen automáticamente los archivos desde GitHub.
