@@ -1,0 +1,88 @@
+{
+  "titulo": "¿Qué enseña la Biblia sobre el libre albedrío? ¿Tenemos libertad para elegir?",
+  "introduccion": "Algunas religiones enseñan que todo lo que sucede está predestinado por Dios, incluidas nuestras decisiones. Sin embargo, la Biblia muestra que Jehová creó a los humanos con la capacidad de escoger entre el bien y el mal. Este libre albedrío es un regalo que conlleva responsabilidad.",
+  "explicacion": [
+    {
+      "punto": "Dios dio a Adán y Eva libertad para obedecer o no",
+      "versiculos": [
+        {
+          "cita": "Génesis 2:16-17",
+          "texto": "De todo árbol del jardín puedes comer hasta quedar satisfecho. Pero del árbol del conocimiento de lo bueno y lo malo no debes comer."
+        },
+        {
+          "cita": "Deuteronomio 30:19",
+          "texto": "He puesto delante de ti la vida y la muerte, la bendición y la maldición; escoge, pues, la vida."
+        }
+      ],
+      "analisis": "Desde el principio, Jehová mostró respeto por la libertad humana, dando mandamientos pero dejando la decisión a cada uno."
+    },
+    {
+      "punto": "El libre albedrío no es independencia absoluta",
+      "versiculos": [
+        {
+          "cita": "Proverbios 3:5-6",
+          "texto": "Confía en Jehová con todo tu corazón... y él hará rectas tus sendas."
+        },
+        {
+          "cita": "Gálatas 6:7",
+          "texto": "Todo lo que el hombre esté sembrando, eso también segará."
+        }
+      ],
+      "analisis": "Podemos tomar decisiones, pero no evitar las consecuencias. La libertad está sujeta a las leyes morales de Jehová."
+    },
+    {
+      "punto": "Jehová se alegra cuando usamos bien nuestra libertad",
+      "versiculos": [
+        {
+          "cita": "Salmo 119:45",
+          "texto": "Andaré con libertad, porque me he dedicado a tus órdenes."
+        },
+        {
+          "cita": "1 Pedro 2:16",
+          "texto": "Sean como personas libres, pero no usen la libertad como excusa para hacer el mal."
+        }
+      ],
+      "analisis": "El propósito de Dios no es restringir, sino guiar. Usar nuestra libertad con sabiduría nos acerca más a Él."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Dios desea obediencia voluntaria",
+        "cita": "Isaías 1:19",
+        "texto": "Si están dispuestos y prestan atención, comerán cosas buenas de la tierra."
+      },
+      {
+        "titulo": "Hasta los ángeles tienen libre albedrío",
+        "cita": "Judas 6",
+        "texto": "Los ángeles que no se mantuvieron en su posición original... los ha reservado con cadenas eternas."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "El amor verdadero no puede ser forzado",
+        "explicacion": "Jehová quiere que le sirvamos por amor, no por programación. Eso solo es posible si tenemos libertad de elección."
+      },
+      {
+        "titulo": "Sin libre albedrío, no habría responsabilidad moral",
+        "explicacion": "No tendría sentido que Dios juzgue nuestras acciones si no pudiéramos escogerlas por nosotros mismos."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La idea de predestinación total proviene de corrientes filosóficas",
+        "descripcion": "Doctrinas como el fatalismo griego y ciertas corrientes teológicas han confundido el equilibrio entre soberanía de Dios y libertad humana."
+      },
+      {
+        "titulo": "Los siervos fieles de la Biblia eligieron obedecer",
+        "descripcion": "José, Moisés, Rut y otros tomaron decisiones difíciles, mostrando que eran agentes morales libres, no títeres."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/ensenanzas-biblicas/preguntas/tenemos-libre-albedrio/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1101989277",
+      "https://www.jw.org/es/biblioteca/revistas/g201305/libre-albedrio/"
+    ]
+  },
+  "conclusion": "La Biblia enseña que Dios nos dio libre albedrío como parte de nuestro diseño. Aunque hay límites morales, somos responsables de nuestras decisiones. Jehová se complace cuando usamos esa libertad para hacer el bien y acercarnos a Él."
+}
