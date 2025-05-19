@@ -1,0 +1,84 @@
+{
+  "titulo": "¿Qué enseña la Biblia sobre el ayuno? ¿Es obligatorio para los cristianos hoy?",
+  "introduccion": "El ayuno, o abstenerse de alimento por un tiempo con fines espirituales, ha sido practicado por muchas personas en tiempos bíblicos. ¿Sigue siendo una obligación para los cristianos verdaderos? ¿Debe practicarse de manera regular? Veamos qué enseña la Biblia sobre este tema.",
+  "explicacion": [
+    {
+      "punto": "El ayuno se practicaba en tiempos bíblicos para expresar humildad o angustia",
+      "versiculos": [
+        {
+          "cita": "Salmo 35:13",
+          "texto": "Humillé mi alma con ayuno."
+        },
+        {
+          "cita": "Joel 2:12",
+          "texto": "Vuelvan a mí con todo su corazón, con ayuno, llanto y lamento."
+        }
+      ],
+      "analisis": "El ayuno se asociaba con tristeza, arrepentimiento o búsqueda de guía divina. No era una práctica vacía, sino una expresión sincera de devoción."
+    },
+    {
+      "punto": "Jesús reconoció el ayuno, pero lo vinculó con la actitud correcta",
+      "versiculos": [
+        {
+          "cita": "Mateo 6:16-18",
+          "texto": "Cuando ayunen, no se pongan tristes como los hipócritas... tu Padre que ve en secreto te recompensará."
+        }
+      ],
+      "analisis": "Jesús no prohibió el ayuno, pero advirtió contra hacerlo por apariencia. El valor del ayuno está en su motivación, no en el acto mismo."
+    },
+    {
+      "punto": "El ayuno no es un mandato para los cristianos hoy",
+      "versiculos": [
+        {
+          "cita": "Colosenses 2:16",
+          "texto": "Que nadie los juzgue por lo que comen o beben, o por festividades religiosas."
+        },
+        {
+          "cita": "Romanos 14:6",
+          "texto": "El que come, lo hace para Jehová... el que no come, también lo hace para Jehová."
+        }
+      ],
+      "analisis": "El cristianismo verdadero no impone reglas sobre ayuno. Es una decisión personal que debe hacerse con sinceridad, no por tradición ni obligación."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "El ayuno no reemplaza la obediencia",
+        "cita": "Isaías 58:5-6",
+        "texto": "¿Acaso este es el ayuno que yo escojo?... Suelten las cadenas de la injusticia."
+      },
+      {
+        "titulo": "Jesús ayunó en circunstancias especiales",
+        "cita": "Mateo 4:1-2",
+        "texto": "Ayunó 40 días y 40 noches."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "El ayuno no garantiza bendición si no hay obediencia",
+        "explicacion": "Jehová se fija en el corazón, no en las prácticas externas. El ayuno debe ir acompañado de un comportamiento piadoso."
+      },
+      {
+        "titulo": "El ayuno puede ser útil, pero no obligatorio",
+        "explicacion": "Puede ayudar en momentos de intensa oración o reflexión espiritual, pero no es un requisito para recibir aprobación divina."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "El ayuno era común en el judaísmo",
+        "descripcion": "Los fariseos ayunaban dos veces por semana, pero muchos lo hacían por apariencia, no por devoción (Lucas 18:12)."
+      },
+      {
+        "titulo": "Los primeros cristianos no impusieron el ayuno como ley",
+        "descripcion": "No hay mandatos cristianos sobre ayuno. Más bien, se enfatizó la fe, la obediencia y el amor."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/ensenanzas-biblicas/preguntas/biblia-ayuno/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1101989352",
+      "https://www.jw.org/es/biblioteca/revistas/g201408/ayuno-biblico/"
+    ]
+  },
+  "conclusion": "El ayuno puede ser una expresión válida de devoción en momentos especiales, pero no es un requisito cristiano. Jehová valora más la obediencia constante, la humildad y el amor que cualquier práctica ritual. Cada cristiano debe decidir si desea ayunar, pero sin juzgar a otros por hacerlo o no hacerlo."
+}
