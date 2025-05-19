@@ -1,0 +1,88 @@
+{
+  "titulo": "¿Qué enseña la Biblia sobre el pecado original? ¿Somos responsables por el pecado de Adán?",
+  "introduccion": "Muchas religiones enseñan que los humanos nacen culpables del pecado original cometido por Adán y Eva. Los Testigos de Jehová creen que la Biblia enseña que heredamos la imperfección y la muerte, no la culpa personal de su pecado.",
+  "explicacion": [
+    {
+      "punto": "Adán transmitió pecado e imperfección a toda la humanidad",
+      "versiculos": [
+        {
+          "cita": "Romanos 5:12",
+          "texto": "Mediante un solo hombre el pecado entró en el mundo, y por medio del pecado la muerte, y así la muerte se extendió a todos los hombres porque todos habían pecado."
+        },
+        {
+          "cita": "Salmo 51:5",
+          "texto": "Con error fui dado a luz con dolores de parto, y en pecado me concibió mi madre."
+        }
+      ],
+      "analisis": "No heredamos la culpa personal de Adán, sino sus consecuencias: imperfección, inclinación al mal y muerte."
+    },
+    {
+      "punto": "Cada persona es juzgada por sus propias acciones",
+      "versiculos": [
+        {
+          "cita": "Ezequiel 18:20",
+          "texto": "El alma que peca, esa morirá. El hijo no cargará con el error del padre."
+        },
+        {
+          "cita": "Deuteronomio 24:16",
+          "texto": "Padres no morirán por los hijos, ni hijos por los padres."
+        }
+      ],
+      "analisis": "Dios no culpa a los descendientes por los pecados de sus antepasados. Él juzga a cada persona con justicia individual."
+    },
+    {
+      "punto": "Jesucristo fue enviado para reparar las consecuencias del pecado de Adán",
+      "versiculos": [
+        {
+          "cita": "Romanos 5:18-19",
+          "texto": "Así como mediante un solo acto de desobediencia muchos fueron hechos pecadores, mediante un solo acto de obediencia muchos serán hechos justos."
+        },
+        {
+          "cita": "1 Corintios 15:22",
+          "texto": "Así como en Adán todos mueren, también en el Cristo todos serán vivificados."
+        }
+      ],
+      "analisis": "El sacrificio de Jesús nos da la oportunidad de ser liberados del pecado heredado y recibir vida eterna."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Dios es justo y no castiga sin causa personal",
+        "cita": "Deuteronomio 32:4",
+        "texto": "Justo y recto es él."
+      },
+      {
+        "titulo": "La imperfección humana es una condición, no una culpa moral heredada",
+        "cita": "Job 14:4",
+        "texto": "¿Quién puede sacar a uno limpio de alguien inmundo? Nadie."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "No se puede responsabilizar moralmente a alguien por actos que no cometió",
+        "explicacion": "La justicia divina no contradice el principio básico de responsabilidad individual."
+      },
+      {
+        "titulo": "La solución al pecado muestra amor, no condenación",
+        "explicacion": "Jehová no solo identificó el problema, sino que envió a su Hijo para solucionarlo con misericordia."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La doctrina de la culpa heredada fue influenciada por teólogos posteriores",
+        "descripcion": "La idea de que nacemos culpables fue desarrollada por Agustín de Hipona, pero no proviene directamente del texto bíblico."
+      },
+      {
+        "titulo": "Los primeros cristianos creían en responsabilidad individual",
+        "descripcion": "Ellos reconocían las consecuencias del pecado de Adán, pero no creían que los hijos fueran moralmente culpables."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/ensenanzas-biblicas/preguntas/pecado-original/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1101989281",
+      "https://www.jw.org/es/biblioteca/revistas/g201407/pecado-original-adam/"
+    ]
+  },
+  "conclusion": "La Biblia enseña que heredamos el pecado y la muerte de Adán, pero no su culpa moral. Dios juzga a cada persona por sus propios actos y ofrece la esperanza de vida eterna a través del sacrificio de Jesucristo."
+}
