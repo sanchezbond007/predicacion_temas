@@ -1,0 +1,88 @@
+{
+  "titulo": "¿Enseña la Biblia que el alma va al cielo o al infierno al morir?",
+  "introduccion": "Muchas religiones enseñan que el alma de una persona buena va al cielo y la de una mala al infierno al morir. Sin embargo, los Testigos de Jehová creen que esta idea no es bíblica. La Biblia enseña que los muertos están inconscientes y que la esperanza verdadera es la resurrección.",
+  "explicacion": [
+    {
+      "punto": "La Biblia enseña que los muertos no tienen conciencia",
+      "versiculos": [
+        {
+          "cita": "Eclesiastés 9:5, 10",
+          "texto": "Los muertos no saben nada... en el Seol no hay trabajo ni conocimiento."
+        },
+        {
+          "cita": "Salmo 146:4",
+          "texto": "Ese día perecen sus pensamientos."
+        }
+      ],
+      "analisis": "Esto demuestra que no hay una parte consciente que siga viviendo tras la muerte."
+    },
+    {
+      "punto": "La esperanza bíblica para los muertos es la resurrección, no un destino inmediato",
+      "versiculos": [
+        {
+          "cita": "Juan 5:28-29",
+          "texto": "Vendrá la hora en que todos los que están en las tumbas... saldrán."
+        },
+        {
+          "cita": "Hechos 24:15",
+          "texto": "Habrá una resurrección tanto de justos como de injustos."
+        }
+      ],
+      "analisis": "Los muertos no han ido al cielo ni al infierno, sino que esperan la resurrección."
+    },
+    {
+      "punto": "El cielo está reservado para un grupo limitado con un propósito específico",
+      "versiculos": [
+        {
+          "cita": "Apocalipsis 14:1, 3",
+          "texto": "144,000... fueron comprados de entre la humanidad."
+        },
+        {
+          "cita": "Lucas 12:32",
+          "texto": "No temas, pequeño rebaño, porque su Padre ha aprobado darles el Reino."
+        }
+      ],
+      "analisis": "No todos los fieles van al cielo. La mayoría tiene la esperanza de vivir en la Tierra restaurada."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Solo Dios tiene inmortalidad",
+        "cita": "1 Timoteo 6:16",
+        "texto": "Él solo tiene inmortalidad."
+      },
+      {
+        "titulo": "La vida eterna es un regalo, no un estado natural",
+        "cita": "Romanos 6:23",
+        "texto": "El don que da Dios es vida eterna."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Si las almas ya están en el cielo o el infierno, la resurrección no tendría sentido",
+        "explicacion": "¿Por qué resucitar a alguien si ya está recibiendo recompensa o castigo eterno?"
+      },
+      {
+        "titulo": "La idea de un castigo eterno contradice la justicia y misericordia de Dios",
+        "explicacion": "Un castigo sin fin por una vida limitada no refleja el amor divino que enseña la Biblia."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La enseñanza del alma inmortal proviene de la filosofía griega",
+        "descripcion": "Filósofos como Platón promovieron la idea de que el alma no muere. Esta creencia fue adoptada por el cristianismo apóstata siglos después."
+      },
+      {
+        "titulo": "Los primeros cristianos esperaban la resurrección, no la ascensión del alma",
+        "descripcion": "Las Escrituras hablan de que los muertos 'duermen' y serán despertados, no que ya están vivos en otro plano."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/ensenanzas-biblicas/preguntas/que-sucede-cuando-morimos/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1101989285",
+      "https://www.jw.org/es/biblioteca/revistas/g201411/alma-cielo-infierno-muerte/"
+    ]
+  },
+  "conclusion": "La Biblia no enseña que el alma va al cielo o al infierno tras la muerte. Los muertos están dormidos, sin conciencia, y esperan la resurrección. La esperanza bíblica es vivir en un paraíso restaurado bajo el Reino de Dios, no un cielo espiritual ni un infierno de tormento."
+}
