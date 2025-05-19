@@ -1,0 +1,78 @@
+{
+  "titulo": "¿Es la Biblia inspirada por Dios o escrita solo por hombres?",
+  "introduccion": "Algunas personas creen que la Biblia es solo una colección de libros antiguos escritos por hombres. Sin embargo, los Testigos de Jehová creen firmemente que la Biblia es la Palabra de Dios, inspirada por Él para guiar a la humanidad.",
+  "explicacion": [
+    {
+      "punto": "La Biblia misma afirma ser inspirada por Dios",
+      "versiculos": [
+        {
+          "cita": "2 Timoteo 3:16",
+          "texto": "Toda la Escritura es inspirada por Dios y útil para enseñar, para censurar, para rectificar las cosas, para disciplinar en justicia."
+        },
+        {
+          "cita": "2 Pedro 1:21",
+          "texto": "Hombres hablaron de parte de Dios al ser guiados por espíritu santo."
+        }
+      ],
+      "analisis": "Los escritores no hablaron por su cuenta, sino que fueron dirigidos por el espíritu santo."
+    },
+    {
+      "punto": "La unidad del mensaje bíblico es evidencia de su origen divino",
+      "explicacion": "Aunque fue escrita por unos 40 autores a lo largo de 1.600 años en tres idiomas y en diferentes contextos, la Biblia mantiene un mensaje coherente centrado en el Reino de Dios y la redención mediante Cristo."
+    },
+    {
+      "punto": "La precisión profética y científica de la Biblia demuestra sabiduría superior",
+      "versiculos": [
+        {
+          "cita": "Isaías 40:22",
+          "texto": "Hay Uno que mora sobre el círculo de la Tierra."
+        },
+        {
+          "cita": "Daniel 2:44",
+          "texto": "El Dios del cielo establecerá un Reino... que triturará y pondrá fin a todos estos reinos."
+        }
+      ],
+      "analisis": "La Biblia predijo con precisión eventos mundiales y reflejó conocimientos científicos adelantados a su tiempo."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Jesús mismo reconocía la autoridad de las Escrituras",
+        "cita": "Juan 17:17",
+        "texto": "Tu palabra es la verdad."
+      },
+      {
+        "titulo": "Se escribieron para nuestra enseñanza",
+        "cita": "Romanos 15:4",
+        "texto": "Todo lo que se escribió antes se escribió para nuestra instrucción."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Un libro tan antiguo y distribuido no habría sobrevivido sin protección divina",
+        "explicacion": "Pese a persecuciones, traducciones erróneas y oposiciones, el mensaje esencial de la Biblia se ha preservado."
+      },
+      {
+        "titulo": "Ningún libro humano ha tenido tal impacto positivo en la moral y la espiritualidad",
+        "explicacion": "La Biblia ha transformado vidas, familias y sociedades enteras por su mensaje de amor, esperanza y verdad."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La Biblia ha sido el libro más traducido y distribuido de la historia",
+        "descripcion": "Traducida a más de 3,000 idiomas, su alcance y preservación son incomparables."
+      },
+      {
+        "titulo": "Los manuscritos antiguos confirman su autenticidad",
+        "descripcion": "Textos como los Rollos del Mar Muerto demuestran que el texto bíblico ha sido fielmente conservado por siglos."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/ensenanzas-biblicas/preguntas/la-biblia-es-la-palabra-de-dios/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1101989282",
+      "https://www.jw.org/es/biblioteca/revistas/g201307/origen-divino-de-la-biblia/"
+    ]
+  },
+  "conclusion": "La Biblia no es simplemente obra humana. La evidencia bíblica, lógica e histórica apoya firmemente que fue inspirada por Dios. Su coherencia, poder transformador y preservación son prueba clara de su origen divino."
+}
