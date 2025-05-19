@@ -1,0 +1,74 @@
+{
+  "titulo": "¿Es bíblico venerar imágenes o estatuas religiosas?",
+  "introduccion": "En muchas religiones se veneran imágenes de Jesús, María o santos, creyendo que estas ayudan a acercarse a Dios. Sin embargo, los Testigos de Jehová creen que esta práctica contradice las enseñanzas bíblicas sobre la adoración pura.",
+  "explicacion": [
+    {
+      "punto": "Dios prohíbe claramente la adoración mediante imágenes",
+      "versiculos": [
+        {
+          "cita": "Éxodo 20:4-5",
+          "texto": "No te harás imagen... no te inclinarás ante ellas ni las servirás."
+        },
+        {
+          "cita": "Isaías 42:8",
+          "texto": "Mi gloria no la daré a ningún otro, ni mi alabanza a imágenes talladas."
+        }
+      ],
+      "analisis": "La adoración de Dios debe ser espiritual, sin representación física. Las imágenes desvían la atención y pueden llevar a la idolatría."
+    },
+    {
+      "punto": "Los cristianos verdaderos adoran con espíritu y verdad, no con objetos físicos",
+      "versiculos": [
+        {
+          "cita": "Juan 4:24",
+          "texto": "Dios es espíritu, y los que lo adoran deben adorarlo con espíritu y con verdad."
+        }
+      ],
+      "analisis": "Jesús enseñó que la adoración debe ser basada en la verdad bíblica, no en objetos visuales ni en símbolos religiosos."
+    },
+    {
+      "punto": "Los primeros cristianos no usaban íconos ni imágenes sagradas",
+      "explicacion": "Durante siglos, los cristianos primitivos evitaron imágenes en sus lugares de reunión. La introducción de íconos fue una práctica posterior influenciada por culturas paganas."
+    }
+  ],
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "La adoración debe dirigirse solo a Dios",
+        "cita": "Mateo 4:10",
+        "texto": "Adora a Jehová tu Dios, y solo a él rinde servicio sagrado."
+      },
+      {
+        "titulo": "Las imágenes no pueden hablar ni salvar",
+        "cita": "Habacuc 2:18-19",
+        "texto": "¿De qué sirve una imagen tallada...? ¡Despierta!, dice al madero... ¡Pero no puede dar guía!"
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Las imágenes no tienen poder espiritual",
+        "explicacion": "No hay pruebas de que una estatua pueda transmitir bendiciones. Solo Jehová puede responder a las oraciones."
+      },
+      {
+        "titulo": "Venerar imágenes puede desplazar la fe verdadera",
+        "explicacion": "Con el tiempo, las personas pueden poner más fe en el objeto que en Dios, lo que contradice el propósito de la adoración pura."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La veneración de imágenes proviene del paganismo",
+        "descripcion": "Las religiones antiguas usaban estatuas para representar a sus dioses. El cristianismo verdadero rechazó esas prácticas en sus inicios."
+      },
+      {
+        "titulo": "Los concilios eclesiásticos aprobaron imágenes siglos después de Cristo",
+        "descripcion": "Fue hasta el siglo VIII que se institucionalizó la veneración de imágenes en algunas iglesias, no por enseñanza bíblica, sino por tradición."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/enseñanzas-biblicas/preguntas/adorar-imagenes/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/2009808",
+      "https://www.jw.org/es/biblioteca/revistas/g201303/imágenes-en-la-religión/"
+    ]
+  },
+  "conclusion": "La veneración de imágenes y estatuas religiosas no tiene base bíblica. La adoración verdadera debe ser dirigida solo a Jehová Dios, de manera espiritual y sincera, sin intermediarios físicos. Esta es la forma que Jesús enseñó y que los primeros cristianos practicaron."
+}
